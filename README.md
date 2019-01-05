@@ -23,10 +23,15 @@ Operations Allowed:
 ## Project Structure
 
 -- ContactManagement.API : Web API project having dependency injection, HATEOAS implementation, Swagger
+
 -- ContactManagement.API.Tests : Web API unit tests
+
 -- ContactManagement.Contracts : Request and response contracts for API
+
 -- ContactManagement.Services : Service layer for fetching data from repository 
+
 -- ContactManagement.Models : Holding business entities and uses entity framework code first approach.
+
 -- ContactManagement.Repository : Generic repository for fetching data from SQL Server
 
 ## How to run 
