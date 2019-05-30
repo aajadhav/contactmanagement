@@ -40,3 +40,4 @@ Sample application is hosted on Azure APP Service and pointing to Azure SQL.
 
 For running application locally, change connection string in web.config file to point to correct SQL Server.
 
+
